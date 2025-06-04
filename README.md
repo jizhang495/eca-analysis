@@ -3,6 +3,11 @@
 Tools for analysing electrochemical actuator (ECA) experiment data.
 
 
+## TODO
+- [ ] refactor ipynb code into reusable modules in analysis/
+- [ ] add gui with pyside or html/javascript and plotly
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
